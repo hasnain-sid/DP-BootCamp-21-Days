@@ -9,4 +9,6 @@ Day 4: Minimum pathm sum 'tabulation' (REVISIT)
 
 Day 5: NA
 
-REVISION
+Day 6 : REVISION
+
+Day 7 : REVISOIN
