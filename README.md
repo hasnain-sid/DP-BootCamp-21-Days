@@ -13,4 +13,4 @@ Day 6 : REVISION
 
 Day 7 : REVISOIN
 
-Day 8:
+Day 8 : Lis(REVISIT)
